@@ -11,6 +11,7 @@ public class Principal {
 		String mientero;
 
 		System.out.println("Ahora github");
+		String mivariable="definidaEnGithub";
 	}
 
 }
